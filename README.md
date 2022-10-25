@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/f040tt3bpch9e055/branch/master?svg=true)](https://ci.appveyor.com/project/Algusb/carddelivery/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/kpjcwgt2aejplx4v/branch/master?svg=true)](https://ci.appveyor.com/project/Algusb/patterntask1/branch/master)
